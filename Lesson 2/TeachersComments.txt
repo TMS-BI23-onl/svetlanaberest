@@ -1,0 +1,17 @@
+Well done!
+
+1
+c
+Because the task is about 'NormaN' :)
+
+4
+a
+First of all, you need to COUNT the rows, not to show everything.
+It possibly led you to the wrong answer. Your solution is not correct because of your SELECT.
+
+
+d
+The task is to find MIN weight. Pay more attention to what is written :)
+
+E
+Your solutions works, but it's not how we treat NULL. Please, use IS NOT NULL.
