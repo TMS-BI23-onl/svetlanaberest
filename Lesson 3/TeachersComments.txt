@@ -1,0 +1,8 @@
+Well done!
+
+1
+We need a filter by COUNT, not by product id.
+
+2
+Distinct is not needed, don't add it when it's not required.
+Also, why are you counting State Province Id, which is FK? It can be null. Use only PK or 1.
