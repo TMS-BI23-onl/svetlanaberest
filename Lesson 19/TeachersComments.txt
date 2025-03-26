@@ -1,3 +1,6 @@
 Well done!
 
 Bookmarks are not set. I see buttons, but they do nothing (only page navigation is working). Please, take a look.
+
+--UPDATE BY TEACHER
+All's good now. Fixed.
